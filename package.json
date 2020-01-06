@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "bunyan": "^1.8.5",
-    "forever": "^0.15.3",
+    "forever": "^2.0.0",
     "history": "^4.5.1",
     "iltorb": "^1.2.1",
     "jsonfile": "^2.4.0",
