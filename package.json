@@ -27,7 +27,7 @@
     "history": "^4.5.1",
     "iltorb": "^1.2.1",
     "jsonfile": "^2.4.0",
-    "node-fetch": "^1.6.3",
+    "node-fetch": "^2.6.1",
     "obj-str": "^1.0.0",
     "object-assign-polyfill": "^0.1.0",
     "promise-polyfill": "^6.0.2",
